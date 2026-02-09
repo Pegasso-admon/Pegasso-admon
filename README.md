@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Rosero</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+Enthusiast;Java+%7C+Spring+Boot+Developer;Building+scalable+and+maintainable+software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Clean+Architecture+Enthusiast;Java+%7C+Spring+Boot+%7C+Python;Building+scalable+and+maintainable+software" />
 </p>
 
 ---
@@ -21,8 +21,10 @@ Comfortable with SQL/NoSQL databases, Git workflows, and CI/CD practices.
 |---------|----------|-----------|-------|
 | Java | HTML | PostgreSQL | Git |
 | Spring Boot | CSS | MySQL | Docker |
-| REST APIs | JavaScript | MongoDB | Linux |
-| Clean Architecture | Bulma / Tailwind | | CI/CD |
+| Python | JavaScript | MongoDB | Linux |
+| REST APIs | Bulma / Tailwind | | CI/CD |
+| Clean Architecture | | | |
+
 
 ---
 
@@ -38,9 +40,10 @@ Comfortable with SQL/NoSQL databases, Git workflows, and CI/CD practices.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pegasso-admon&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasso-admon&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pegasso-admon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasso-admon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
+
 
 ---
 
