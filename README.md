@@ -37,12 +37,12 @@ Comfortable with SQL/NoSQL databases, Git workflows, and CI/CD practices.
 
 ---
 
-### GitHub Stats
+### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pegasso-admon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasso-admon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pegasso-admon&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 
 ---
@@ -57,4 +57,4 @@ Comfortable with SQL/NoSQL databases, Git workflows, and CI/CD practices.
 
 ### Contact
 
-- LinkedIn: https://www.linkedin.com/in/samuel-rosero-334ab3a7
+- LinkedIn: [https://www.linkedin.com/in/samuel-rosero-334ab3a7](https://www.linkedin.com/in/samuel-rosero-334abb3a7/)
