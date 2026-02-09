@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Samuel Rosero</h1>
 
-<!--
-**Pegasso-admon/Pegasso-admon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+Enthusiast;Java+%7C+Spring+Boot+Developer;Building+scalable+and+maintainable+software" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+Software developer focused on building scalable and maintainable applications following Clean Architecture principles.
+
+I work mainly with Java and Spring Boot on the backend, and JavaScript, HTML, and CSS on the frontend.  
+Comfortable with SQL/NoSQL databases, Git workflows, and CI/CD practices.
+
+---
+
+### Technologies
+
+| Backend | Frontend | Databases | Tools |
+|---------|----------|-----------|-------|
+| Java | HTML | PostgreSQL | Git |
+| Spring Boot | CSS | MySQL | Docker |
+| REST APIs | JavaScript | MongoDB | Linux |
+| Clean Architecture | Bulma / Tailwind | | CI/CD |
+
+---
+
+### Featured Projects
+
+- **Crudzocial** – Social CRUD application focused on frontend architecture and storage handling
+- **Remote Control System** – Desktop agent + web admin panel for network device management
+- **Portfolio** – Personal web portfolio with Frutiger Aero aesthetic
+- **RiwTraining** – Python training and exercises repository
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pegasso-admon&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasso-admon&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+### Current Focus
+
+- Improving backend architecture with Spring Boot
+- Strengthening frontend structure and design practices
+- Building complete, real-world projects
+
+---
+
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/samuel-rosero-334ab3a7
