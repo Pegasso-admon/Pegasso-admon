@@ -22,10 +22,13 @@ Software developer focused on scalable and maintainable systems.
 
 #### Featured Projects
 
-- **Crudzocial** – Frontend architecture & storage
-- **Remote Control System** – Desktop agent + admin panel
-- **Portfolio** – Frutiger Aero design
-- **RiwTraining** – Python exercises
+- **CrudPark** – Parking management system built with Clean Architecture, focused on domain modeling, persistence adapters and scalable backend structure.
+
+- **EnvyGuard** – Remote device control and monitoring system using a desktop agent and web admin panel for network-wide management.
+
+- **EnigmaGame** – Interactive game project designed to practice state management, logic structuring and modular frontend architecture.
+
+- **CrudCloud** – Cloud-based CRUD platform emphasizing storage strategies, session handling and frontend architecture patterns.
 
 ---
 
